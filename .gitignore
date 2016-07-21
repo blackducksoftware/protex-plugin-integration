@@ -1,2 +1,5 @@
-/bin/
-/target/
+target/
+.settings/
+.classpath
+.project
+pom.xml.bak
