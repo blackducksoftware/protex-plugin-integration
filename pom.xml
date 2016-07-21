@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-    <parent>
+  <parent>
     <groupId>com.blackducksoftware.integration</groupId>
     <artifactId>common-maven-parent</artifactId>
     <version>1.0.5</version>
@@ -27,8 +27,7 @@
       <artifactId>protex-common</artifactId>
       <version>1.1.7</version>
     </dependency>
-    <dependency>
-      <!-- Use Validator.nu HTML processor for handling non-XHTML input in reports -->
+    <dependency><!-- Use Validator.nu HTML processor for handling non-XHTML input in reports -->
       <groupId>nu.validator.htmlparser</groupId>
       <artifactId>htmlparser</artifactId>
       <version>1.4</version>
@@ -39,5 +38,4 @@
       <version>3.3.2</version>
     </dependency>
   </dependencies>
-
 </project>
