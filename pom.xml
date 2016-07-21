@@ -27,10 +27,6 @@
       <artifactId>protex-common</artifactId>
       <version>1.1.7</version>
     </dependency>
-   <!--  <dependency>
-      <groupId>com.blackducksoftware.protex.sdkclient</groupId>
-      <artifactId>protex-sdk-utilities</artifactId>
-    </dependency> -->
     <dependency>
       <!-- Use Validator.nu HTML processor for handling non-XHTML input in reports -->
       <groupId>nu.validator.htmlparser</groupId>
