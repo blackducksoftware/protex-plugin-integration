@@ -10,7 +10,7 @@
 
   <groupId>com.blackducksoftware.plugins</groupId>
   <artifactId>protex-plugin-integration</artifactId>
-  <version>1.6-SNAPSHOT</version>
+  <version>1.6</version>
 
   <name>Protex Plugin Integration</name>
   <url>https://www.github.com/blackducksoftware/protex-plugin-integration</url>
