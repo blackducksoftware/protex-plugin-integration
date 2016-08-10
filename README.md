@@ -2,6 +2,11 @@
 
 Dynamically downloads the bdstool from the Protex server and allows for instantion and invocation of the scan.  
 
+## Build ##
+
+[![Build Status](https://travis-ci.org/blackducksoftware/protex-plugin-integration.svg?branch=master)](https://travis-ci.org/blackducksoftware/protex-plugin-integration)
+[![Coverage Status](https://coveralls.io/repos/github/blackducksoftware/protex-plugin-integration/badge.svg?branch=master)](https://coveralls.io/github/blackducksoftware/protex-plugin-integration?branch=master)
+
 # Where can I get the latest release?
 
 You can download the latest source from GitHub.
