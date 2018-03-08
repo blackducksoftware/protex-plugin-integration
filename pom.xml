@@ -10,7 +10,7 @@
 
   <groupId>com.blackducksoftware.plugins</groupId>
   <artifactId>protex-plugin-integration</artifactId>
-  <version>1.7-SNAPSHOT</version>
+  <version>1.8.0-SNAPSHOT</version>
 
   <name>Protex Plugin Integration</name>
   <url>https://www.github.com/blackducksoftware/protex-plugin-integration</url>
@@ -25,7 +25,7 @@
     <dependency>
       <groupId>com.blackducksoftware.integration</groupId>
       <artifactId>protex-common</artifactId>
-      <version>1.1.7</version>
+      <version>1.1.9-SNAPSHOT</version>
     </dependency>
     <dependency><!-- Use Validator.nu HTML processor for handling non-XHTML input in reports -->
       <groupId>nu.validator.htmlparser</groupId>
